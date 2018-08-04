@@ -1,0 +1,16 @@
+build/
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+Testing/
+*.o
+*.swp
+*\tags
+*.cmake
+.cproject
+.project
+.settings/
+logs/
+foolgo
+tests
+Makefile

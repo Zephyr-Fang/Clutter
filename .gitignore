@@ -1,0 +1,5 @@
+__pycache__/
+/C++/Leetcode/
+/C++/PAT/
+*.VC.db
+*.bak
